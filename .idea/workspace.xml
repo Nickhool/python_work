@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/11-测试代码/city_functions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/11-测试代码/employee.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/11-测试代码/test_cites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-测试代码/test_employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +18,7 @@
     <session id="-1426818325">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -28,7 +29,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="2" />
-          <entry key="py" value="43" />
+          <entry key="py" value="46" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
@@ -36,39 +37,26 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="43" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="5514" />
+          <entry key="py" value="5524" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="5514" />
+          <entry key="Python" value="5524" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11-测试代码/employee.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding>
-                <marker date="1555578523450" expanded="true" signature="40:41" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,6 +111,7 @@
         <option value="$PROJECT_DIR$/city_functions.py" />
         <option value="$PROJECT_DIR$/11-测试代码/test_cites.py" />
         <option value="$PROJECT_DIR$/11-测试代码/employee.py" />
+        <option value="$PROJECT_DIR$/11-测试代码/test_employee.py" />
       </list>
     </option>
   </component>
@@ -146,11 +135,6 @@
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="11-测试代码" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +144,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -194,28 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="remember_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10-文件和异常" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-文件和异常/remember_me.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_employee.py">
     <configuration name="Unittests for test_city_country.CitesTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,20 +235,34 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-测试代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/11-测试代码/test_employee.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.remember_me" />
       <item itemvalue="Python tests.Unittests in test_cites.py" />
       <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase.test_city_country_population" />
       <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase" />
       <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase.test_city_country" />
+      <item itemvalue="Python tests.Unittests in test_employee.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_employee.py" />
         <item itemvalue="Python tests.Unittests in test_cites.py" />
         <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase.test_city_country" />
         <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase" />
         <item itemvalue="Python tests.Unittests for test_city_country.CitesTestCase.test_city_country_population" />
-        <item itemvalue="Python.remember_me" />
       </list>
     </recent_temporary>
   </component>
@@ -311,15 +288,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_city_country_CitesTestCase - 2019.04.18 at 15h 50m 27s.xml">
-      <configuration name="Unittests for test_city_country.CitesTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_city_country_CitesTestCase - 2019.04.18 at 15h 50m 38s.xml">
-      <configuration name="Unittests for test_city_country.CitesTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_city_country_CitesTestCase - 2019.04.18 at 15h 53m 00s.xml">
-      <configuration name="Unittests for test_city_country.CitesTestCase" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_city_country_CitesTestCase - 2019.04.18 at 15h 56m 23s.xml">
       <configuration name="Unittests for test_city_country.CitesTestCase" configurationId="tests" />
     </history-entry>
@@ -341,17 +309,25 @@
     <history-entry file="Unittests_in_test_cites_py - 2019.04.18 at 16h 44m 42s.xml">
       <configuration name="Unittests in test_cites.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_employee_py - 2019.04.18 at 17h 11m 46s.xml">
+      <configuration name="Unittests in test_employee.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_employee_py - 2019.04.18 at 17h 12m 26s.xml">
+      <configuration name="Unittests in test_employee.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_employee_py - 2019.04.18 at 17h 12m 33s.xml">
+      <configuration name="Unittests in test_employee.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1002" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.66079295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48237884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,17 +629,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11-测试代码/city_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11-测试代码/test_cites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="128">
+          <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="19" />
           <folding>
             <element signature="e#23#38#0" expanded="true" />
             <marker date="1555577157527" expanded="true" signature="172:173" ph="..." />
@@ -672,12 +641,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/city_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/11-测试代码/employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1555578523450" expanded="true" signature="40:41" ph="..." />
+            <marker date="1555578547286" expanded="true" signature="40:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+            <marker date="1555578752879" expanded="true" signature="442:447" ph="..." />
           </folding>
         </state>
       </provider>
