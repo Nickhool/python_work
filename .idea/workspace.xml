@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb729835-a7b9-46c8-ac8b-b5a93ebe3966" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15-生成数据/15.1-2立方.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/2D8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/3D6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/D6xD6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/die_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/different_dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/mpl_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/rw_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-生成数据/scatter_squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_work.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb729835-a7b9-46c8-ac8b-b5a93ebe3966" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
