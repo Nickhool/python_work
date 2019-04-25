@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb729835-a7b9-46c8-ac8b-b5a93ebe3966" name="Default Changelist" comment="" />
+    <list default="true" id="bb729835-a7b9-46c8-ac8b-b5a93ebe3966" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/16-2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/16-2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/16-2test.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/16-2test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/16-3rainfall.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/16-3rainfall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/btc_close_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/btc_close_2017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/high_lows.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/high_lows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-下载数据/sitka_weather_07-2014.csv" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/sitka_weather_07-2014.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btc_close_2017.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,19 +22,21 @@
     <session id="-1426818325">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="4" />
+          <entry key="btc_close_2017" value="1" />
+          <entry key="csv" value="4" />
+          <entry key="json" value="6" />
           <entry key="png" value="1" />
-          <entry key="py" value="73" />
+          <entry key="py" value="79" />
           <entry key="svg" value="9" />
           <entry key="txt" value="7" />
         </counts>
@@ -32,29 +44,55 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JSON" value="4" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="73" />
+          <entry key="JSON" value="6" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="79" />
           <entry key="SVG" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="8612" />
+          <entry key="py" value="9836" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="8612" />
+          <entry key="Python" value="9836" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-453" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,13 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7-用户输入和while循环/7_test.py" />
-        <option value="$PROJECT_DIR$/7-用户输入和while循环/7_test1.py" />
-        <option value="$PROJECT_DIR$/7-用户输入和while循环/7_test2.py" />
-        <option value="$PROJECT_DIR$/8-函数/8_test.py" />
-        <option value="$PROJECT_DIR$/8-函数/8_test1.py" />
-        <option value="$PROJECT_DIR$/8-函数/8_test2.py" />
-        <option value="$PROJECT_DIR$/8-函数/8_test3.py" />
         <option value="$PROJECT_DIR$/8-函数/8_test4.py" />
         <option value="$PROJECT_DIR$/8-函数/print_functions.py" />
         <option value="$PROJECT_DIR$/8-函数/print_models.py" />
@@ -120,12 +151,19 @@
         <option value="$PROJECT_DIR$/15-生成数据/2D8.py" />
         <option value="$PROJECT_DIR$/15-生成数据/3D6.py" />
         <option value="$PROJECT_DIR$/15-生成数据/different_dice.py" />
+        <option value="$PROJECT_DIR$/16-下载数据/sitka_weather_07-2014.csv" />
+        <option value="$PROJECT_DIR$/16-下载数据/high_lows.py" />
+        <option value="$PROJECT_DIR$/16-下载数据/16-2test.py" />
+        <option value="$PROJECT_DIR$/16-下载数据/16-2_2.py" />
+        <option value="$PROJECT_DIR$/16-下载数据/16-3rainfall.py" />
+        <option value="$PROJECT_DIR$/btc_close_2017.py" />
+        <option value="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1273" />
+    <option name="width" value="1920" />
     <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -142,6 +180,11 @@
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="16-下载数据" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
@@ -175,6 +218,8 @@
       <recent name="$PROJECT_DIR$/8-函数" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/16-下载数据" />
       <recent name="$PROJECT_DIR$/10-文件和异常" />
     </key>
   </component>
@@ -190,8 +235,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.die_visual">
-    <configuration name="2D8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.btc_close_2017">
+    <configuration name="16-2_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15-生成数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-生成数据/2D8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/16-2_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3D6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16-2test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15-生成数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-生成数据/3D6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/16-2test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="D6xD6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16-3rainfall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15-生成数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-生成数据/D6xD6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/16-3rainfall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="die_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="btc_close_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +307,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15-生成数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-生成数据/die_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="different_dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="high_lows" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15-生成数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-生成数据/different_dice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/high_lows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,19 +342,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.die_visual" />
-      <item itemvalue="Python.different_dice" />
-      <item itemvalue="Python.2D8" />
-      <item itemvalue="Python.3D6" />
-      <item itemvalue="Python.D6xD6" />
+      <item itemvalue="Python.high_lows" />
+      <item itemvalue="Python.16-2test" />
+      <item itemvalue="Python.16-2_2" />
+      <item itemvalue="Python.16-3rainfall" />
+      <item itemvalue="Python.btc_close_2017" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.die_visual" />
-        <item itemvalue="Python.D6xD6" />
-        <item itemvalue="Python.different_dice" />
-        <item itemvalue="Python.3D6" />
-        <item itemvalue="Python.2D8" />
+        <item itemvalue="Python.btc_close_2017" />
+        <item itemvalue="Python.16-3rainfall" />
+        <item itemvalue="Python.16-2_2" />
+        <item itemvalue="Python.16-2test" />
+        <item itemvalue="Python.high_lows" />
       </list>
     </recent_temporary>
   </component>
@@ -367,21 +412,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1273" height="1002" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1002" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29300866" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19427083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" sideWeight="0.49253732" weight="0.26762116" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" sideWeight="0.49175176" weight="0.5011013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5074627" side_tool="true" visible="true" weight="0.26762116" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5082482" side_tool="true" weight="0.26762116" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -396,84 +442,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一周1-7" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/9-类/9_test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="3" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/restaurant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/my_restaurant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/my_user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/9-12多个模块/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/9-12多个模块/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/9-12多个模块/my_admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/pi_million_digits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/learning_python.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/pi_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9-类/9_test3.py">
+    <entry file="file://$PROJECT_DIR$/09-类/9_test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
@@ -591,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <marker date="1555569858012" expanded="true" signature="398:403" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,6 +696,87 @@
           <folding>
             <element signature="e#23#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/sitka_weather_07-2014.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/death_valley_2014.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/sitka_weather_2014.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/high_lows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/16-2test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/16-2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/16-3rainfall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btc_close_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
