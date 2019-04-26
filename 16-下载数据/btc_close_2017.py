@@ -13,7 +13,7 @@ response = urlopen(json_url)
 # 读取数据
 req = response.read()
 # 将数据写入文件
-with open('btc_close_2017.json', 'wb') as f:
+with open('btc_close_2017_urllib.json', 'wb') as f:
     f.write(req)
 # 加载json格式
 file_urllib = json.loads(req)
