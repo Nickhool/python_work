@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb729835-a7b9-46c8-ac8b-b5a93ebe3966" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16-下载数据/16.2.6收盘价均值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-下载数据/bt_close_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-下载数据/btc_close_提取数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-使用API/bar_descriptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-使用API/hn_submissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-使用API/python_repos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-使用API/python_repos_for_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-使用API/test_python_repos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-下载数据/btc_close_2017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-下载数据/btc_close_2017.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +19,13 @@
     <session id="-1426818325">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,8 +35,8 @@
           <entry key="html" value="1" />
           <entry key="json" value="7" />
           <entry key="png" value="1" />
-          <entry key="py" value="91" />
-          <entry key="svg" value="14" />
+          <entry key="py" value="105" />
+          <entry key="svg" value="25" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
@@ -46,21 +46,21 @@
           <entry key="Image" value="1" />
           <entry key="JSON" value="7" />
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="91" />
-          <entry key="SVG" value="14" />
+          <entry key="Python" value="105" />
+          <entry key="SVG" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="33" />
-          <entry key="py" value="11202" />
+          <entry key="py" value="13441" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="11202" />
+          <entry key="Python" value="13441" />
         </counts>
       </usages-collector>
     </session>
@@ -68,71 +68,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/16.2.6收盘价均值.py">
+        <entry file="file://$PROJECT_DIR$/17-使用API/hn_submissions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
+            <state relative-caret-position="372">
+              <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
               <folding>
-                <element signature="e#23#52#0" expanded="true" />
-                <marker date="1556243351132" expanded="true" signature="567:572" ph="..." />
+                <element signature="e#23#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_提取数据.py">
+        <entry file="file://$PROJECT_DIR$/17-使用API/python_repos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="460">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="41" />
               <folding>
-                <element signature="e#23#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/bt_close_request.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-              <folding>
-                <element signature="e#22#33#0" expanded="true" />
+                <element signature="e#23#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/16-2test.py">
+        <entry file="file://$PROJECT_DIR$/17-使用API/test_python_repos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#23#33#0" expanded="true" />
+                <element signature="e#23#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价Dashboard.html">
+        <entry file="file://$PROJECT_DIR$/11-测试代码/city_functions.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11-测试代码/test_cites.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="361">
+              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价星期均值（¥）.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价周日均值（¥）.svg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/17-使用API/python_repos_for_testing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-853">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -150,12 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/print_models.py" />
-        <option value="$PROJECT_DIR$/9-类/9_test.py" />
-        <option value="$PROJECT_DIR$/9-类/9_test2.py" />
-        <option value="$PROJECT_DIR$/9-类/Restaurant.py" />
-        <option value="$PROJECT_DIR$/9-类/my_restaurant.py" />
-        <option value="$PROJECT_DIR$/9-类/user.py" />
         <option value="$PROJECT_DIR$/9-类/my_user.py" />
         <option value="$PROJECT_DIR$/9-类/9-12多个模块/user.py" />
         <option value="$PROJECT_DIR$/9-类/9-12多个模块/admin.py" />
@@ -201,11 +189,16 @@
         <option value="$PROJECT_DIR$/16-下载数据/openurl_request.py" />
         <option value="$PROJECT_DIR$/16-下载数据/16.2.6收盘价均值.py" />
         <option value="$PROJECT_DIR$/16-下载数据/btc_close_提取数据.py" />
+        <option value="$PROJECT_DIR$/17-使用API/bar_descriptions.py" />
+        <option value="$PROJECT_DIR$/17-使用API/ip_show.py" />
+        <option value="$PROJECT_DIR$/17-使用API/python_repos.py" />
+        <option value="$PROJECT_DIR$/17-使用API/hn_submissions.py" />
+        <option value="$PROJECT_DIR$/17-使用API/py_repos.py" />
+        <option value="$PROJECT_DIR$/17-使用API/test_python_repos.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="191" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1002" />
@@ -218,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +222,12 @@
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="16-下载数据" type="462c0819:PsiDirectoryNode" />
+              <item name="11-测试代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="17-使用API" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,8 +277,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.btc_close_提取数据">
-    <configuration name="16-3rainfall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_python_repos.py">
+    <configuration name="hn_submissions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17-使用API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/16-3rainfall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17-使用API/hn_submissions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,104 +299,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16.2.6收盘价均值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_employee.TestEmployee.test_give_default_raise" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-测试代码" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/16.2.6收盘价均值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_employee.TestEmployee.test_give_default_raise&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="bt_close_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_python_repos.PythonReposTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17-使用API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/bt_close_request.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_python_repos.PythonReposTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="btc_close_提取数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in test_cites.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-测试代码" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/btc_close_提取数据.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/11-测试代码/test_cites.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="btc_close_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in test_python_repos.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-下载数据" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17-使用API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-下载数据/btc_close_2017.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/17-使用API/test_python_repos.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.16-3rainfall" />
-      <item itemvalue="Python.btc_close_2017" />
-      <item itemvalue="Python.bt_close_request" />
-      <item itemvalue="Python.btc_close_提取数据" />
-      <item itemvalue="Python.16.2.6收盘价均值" />
+      <item itemvalue="Python.hn_submissions" />
+      <item itemvalue="Python tests.Unittests for test_python_repos.PythonReposTestCase" />
+      <item itemvalue="Python tests.Unittests for test_employee.TestEmployee.test_give_default_raise" />
+      <item itemvalue="Python tests.Unittests in test_cites.py" />
+      <item itemvalue="Python tests.Unittests in test_python_repos.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.btc_close_提取数据" />
-        <item itemvalue="Python.16.2.6收盘价均值" />
-        <item itemvalue="Python.bt_close_request" />
-        <item itemvalue="Python.btc_close_2017" />
-        <item itemvalue="Python.16-3rainfall" />
+        <item itemvalue="Python tests.Unittests in test_python_repos.py" />
+        <item itemvalue="Python tests.Unittests in test_cites.py" />
+        <item itemvalue="Python tests.Unittests for test_employee.TestEmployee.test_give_default_raise" />
+        <item itemvalue="Python tests.Unittests for test_python_repos.PythonReposTestCase" />
+        <item itemvalue="Python.hn_submissions" />
       </list>
     </recent_temporary>
   </component>
@@ -424,21 +394,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_city_country_CitesTestCase - 2019.04.18 at 15h 56m 23s.xml">
-      <configuration name="Unittests for test_city_country.CitesTestCase" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_city_country_CitesTestCase_test_city_country - 2019.04.18 at 16h 36m 34s.xml">
-      <configuration name="Unittests for test_city_country.CitesTestCase.test_city_country" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_cites_py - 2019.04.18 at 16h 38m 22s.xml">
-      <configuration name="Unittests in test_cites.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_cites_py - 2019.04.18 at 16h 40m 19s.xml">
-      <configuration name="Unittests in test_cites.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_cites_py - 2019.04.18 at 16h 43m 38s.xml">
-      <configuration name="Unittests in test_cites.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_cites_py - 2019.04.18 at 16h 43m 52s.xml">
       <configuration name="Unittests in test_cites.py" configurationId="tests" />
     </history-entry>
@@ -454,17 +409,31 @@
     <history-entry file="Unittests_in_test_employee_py - 2019.04.18 at 17h 12m 33s.xml">
       <configuration name="Unittests in test_employee.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test_python_repos_PythonReposTestCase - 2019.04.28 at 10h 43m 46s.xml">
+      <configuration name="Unittests for test_python_repos.PythonReposTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_employee_TestEmployee_test_give_default_raise - 2019.04.28 at 10h 44m 42s.xml">
+      <configuration name="Unittests for test_employee.TestEmployee.test_give_default_raise" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cites_py - 2019.04.28 at 10h 45m 06s.xml">
+      <configuration name="Unittests in test_cites.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_cites_py - 2019.04.28 at 10h 45m 38s.xml">
+      <configuration name="Unittests in test_cites.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_python_repos_py - 2019.04.28 at 10h 46m 07s.xml">
+      <configuration name="Unittests in test_python_repos.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="191" y="23" width="1920" height="1002" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1002" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19427083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19641916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" sideWeight="0.49175176" weight="0.2698238" />
+      <window_info anchor="bottom" auto_hide="true" id="Run" order="2" sideWeight="0.49175176" weight="0.3449831" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,132 +455,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一周1-7" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/cats.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/cats_and_dogs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/remember_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11-测试代码/test_cites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11-测试代码/city_functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11-测试代码/employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11-测试代码/test_employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/favorite_number.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/favorite_number_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10-文件和异常/username.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/squares_plot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/15.1-2立方.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/colors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/cm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="388" column="11" lean-forward="true" selection-start-line="388" selection-start-column="11" selection-end-line="388" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/rw_visual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/mpl_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/scatter_squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/random_walk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1556076591996" expanded="true" signature="69:74" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/die_visual.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/die_visual_2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-生成数据/die_visual_4.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/15-生成数据/15-8_3D6.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -622,9 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <marker date="1556086916523" expanded="true" signature="63:68" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-          <folding>
-            <element signature="e#23#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,9 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="27" column="58" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="58" />
-          <folding>
-            <element signature="e#23#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="58" />
-          <folding>
-            <element signature="e#23#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,9 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#23#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#23#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,47 +520,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/btc_close_2017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017" />
+    <entry file="file://$PROJECT_DIR$/btc_close_2017.py" />
+    <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017.json" />
     <entry file="file://$PROJECT_DIR$/16-下载数据/btc_close_2017_request.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价折线图（¥）.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价对数变换折线图(¥).svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/16-下载数据/收盘价对数变换折线图(¥).svg" />
     <entry file="file://$PROJECT_DIR$/16-下载数据/16-3rainfall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#23#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,10 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="728">
           <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
-          <folding>
-            <element signature="e#23#52#0" expanded="true" />
-            <marker date="1556243351132" expanded="true" signature="567:572" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,9 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="671">
           <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,18 +591,127 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#22#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/16-下载数据/16-2test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="399">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/bar_descriptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#23#33#0" expanded="true" />
+            <element signature="e#23#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/bar_description.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/iptools/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/ip_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/python_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/JavaScript_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/C_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/Ruby_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/Java_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/Perl_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/Haskell_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/Go_repos.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/hn_discussions.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/hn_submissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/employee.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/city_functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-测试代码/test_cites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/python_repos_for_testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-使用API/test_python_repos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
